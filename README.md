@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaib-code-png&show_icons=true&locale=en" alt="sohaib-code-png" /></p>
 
-![Sohaib's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=sohaib-code-png)
+![Sohaib's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SohaibShaikh04)
