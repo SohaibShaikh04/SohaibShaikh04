@@ -38,7 +38,7 @@
   <h3> I'm a 21 year old Full-Stack developer </h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🥀 Learning NextJs & NodeJs
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
