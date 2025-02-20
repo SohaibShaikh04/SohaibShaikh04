@@ -51,6 +51,9 @@
  - All About living life at its best.
  
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+   <h1>Trophies :
+   <br>
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SohaibShaikh04" alt="SOHAIB TROPHIES" /></a> </p>
  
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
