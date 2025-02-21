@@ -42,18 +42,17 @@
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - Fun fact : I feel I am witty 😼
  
  - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
-   <h1>Trophies :
-   <br>
-   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SohaibShaikh04" alt="SOHAIB TROPHIES" /></a> </p>
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://www.instagram.com/mr_sohaib_._/)
+   <br />
+   <h1> Trophies : 
+   <br />
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <br /> <img src="https://github-profile-trophy.vercel.app/?username=SohaibShaikh04" alt="SOHAIB TROPHIES" /></a> </p>
  
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
