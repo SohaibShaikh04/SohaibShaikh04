@@ -116,6 +116,7 @@
 
 <h2 align="center">🤝 Support</h2>
 
+<p align="center">📫 How to reach me sohaibsk2004@gmail.com </p>
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
@@ -124,6 +125,6 @@
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/SohaibShaikh04/SohaibShaikh04/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohaibShaikh04&show_icons=true&locale=en&layout=compact" alt="sohaib" /></p>
+
+![Sohaib's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SohaibShaikh04)
