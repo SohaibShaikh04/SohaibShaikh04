@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">Sohaib</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
 </div>
 
 <p align='center'>
@@ -48,7 +48,7 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://www.instagram.com/mr_sohaib_._/)
+ - 💬 Connect? lets get social 👉🏼<a href="https://instagram.com/mr_sohaib_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_sohaib._" height="30" width="40" /></a>
    <br />
    <h1> Trophies : 
    <br />
