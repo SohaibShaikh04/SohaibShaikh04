@@ -108,6 +108,6 @@
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohaibShaikh04&show_icons=true&locale=en&layout=compact" alt="sohaib" /></p>
+
 
 ![Sohaib's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SohaibShaikh04)
