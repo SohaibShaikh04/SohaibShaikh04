@@ -110,4 +110,7 @@
 
 
 
-<![Sohaib's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SohaibShaikh04)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibShaikh04" alt="GitHub Streak">
+</div>
+
