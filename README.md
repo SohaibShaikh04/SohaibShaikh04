@@ -38,7 +38,15 @@
  
  - 💬 Connect? lets get social 👉🏼<a href="https://instagram.com/mr_sohaib_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_sohaib._" height="30" width="40" /></a>
    <br />
-   <h1> Trophies : 
+   <br />
+   <br />
+   <br />
+   <br />
+   <br />
+   <br />
+   <br />
+   
+   <h1 align="left"> Trophies : 
    <br />
    <div>
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=5" alt="Trophies" />
