@@ -23,7 +23,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm a 21 year old Full-Stack developer </h3>
+  <h3> I'm a 22 year old Full-Stack developer with keen interest in Machine Learning and Agentic AI  </h3>
 </p>
 
  - 🥀 Learning NextJs & NodeJs
